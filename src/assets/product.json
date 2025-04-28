@@ -1,8 +1,9 @@
-{"products": [
+{
+  "products": [
     {
       "name": "Chocolate Cookies",
       "price": "Rp20.000",
-      "image": "./../assets/Images/Foods/Chocolate Cookies.jpg",
+      "image": "/Images/Foods/Chocolate Cookies.jpg",
       "rating": 4.5,
       "reviews": 19,
       "category": "Foods"
@@ -10,7 +11,7 @@
     {
       "name": "Strawberry Cupcakes",
       "price": "Rp15.000",
-      "image": "./../assets/Images/Foods/Strawberry Cupcakes.jpg",
+      "image": "/Images/Foods/Strawberry Cupcakes.jpg",
       "rating": 4.2,
       "reviews": 16,
       "category": "Foods"
@@ -18,7 +19,7 @@
     {
       "name": "10 Pack Hotwheels",
       "price": "Rp310.000",
-      "image": "./../assets/Images/Popular/10 Pack Hotwheels.png",
+      "image": "/Images/Popular/10 Pack Hotwheels.png",
       "rating": 0,
       "reviews": 0,
       "category": "Toys"
@@ -26,7 +27,7 @@
     {
       "name": "Nike Giannis Immortality 4",
       "price": "Rp1.504.000",
-      "image": "./../assets/Images/Others/Nike shoes 1.jpg",
+      "image": "/Images/Others/Nike shoes 1.jpg",
       "rating": 0,
       "reviews": 0,
       "category": "Others"
@@ -34,7 +35,7 @@
     {
       "name": "Lemon Juice",
       "price": "Rp20.000",
-      "image": "./../assets/Images/Drinks/Lemon Juice.webp",
+      "image": "/Images/Drinks/Lemon Juice.webp",
       "rating": 4.2,
       "reviews": 16,
       "category": "Drinks"
@@ -42,7 +43,7 @@
     {
       "name": "Organic Juice",
       "price": "Rp15.000",
-      "image": "./../assets/Images/Drinks/Organic Juice.jpeg",
+      "image": "/Images/Drinks/Organic Juice.jpeg",
       "rating": 4.2,
       "reviews": 16,
       "category": "Drinks"
@@ -50,7 +51,7 @@
     {
       "name": "Hot Chocolate",
       "price": "Rp30.000",
-      "image": "./../assets/Images/Drinks/Hot Chocolate.jpeg",
+      "image": "/Images/Drinks/Hot Chocolate.jpeg",
       "rating": 0,
       "reviews": 0,
       "category": "Drinks"
@@ -58,7 +59,7 @@
     {
       "name": "Caffè Mocha",
       "price": "Rp45.000",
-      "image": "./../assets/Images/Drinks/Caffè mocha.jpg",
+      "image": "/Images/Drinks/Caffè mocha.jpg",
       "rating": 0,
       "reviews": 0,
       "category": "Drinks"
@@ -66,7 +67,7 @@
     {
       "name": "UNO Harry Potter",
       "price": "Rp20.000",
-      "image": "./../assets/Images/Toys/UNO Harry Potter.webp",
+      "image": "/Images/Toys/UNO Harry Potter.webp",
       "rating": 4.2,
       "reviews": 16,
       "category": "Toys"
@@ -74,7 +75,7 @@
     {
       "name": "UNO Pokemon",
       "price": "Rp20.000",
-      "image": "./../assets/Images/Toys/UNO Pokemon.jpg",
+      "image": "/Images/Toys/UNO Pokemon.jpg",
       "rating": 4.2,
       "reviews": 16,
       "category": "Toys"
@@ -82,7 +83,7 @@
     {
       "name": "Smiski",
       "price": "Rp300.000",
-      "image": "./../assets/Images/Toys/Smiski.png",
+      "image": "/Images/Toys/Smiski.png",
       "rating": 4.5,
       "reviews": 18,
       "category": "Toys"
@@ -90,7 +91,7 @@
     {
       "name": "DIMOO",
       "price": "Rp250.000",
-      "image": "./../assets/Images/Toys/DIMOO.png",
+      "image": "/Images/Toys/DIMOO.png",
       "rating": 4.5,
       "reviews": 18,
       "category": "Toys"
@@ -98,7 +99,7 @@
     {
       "name": "Vanilla Cookies",
       "price": "Rp19.000",
-      "image": "./../assets/Images/Foods/Vanilla Cookies.webp",
+      "image": "/Images/Foods/Vanilla Cookies.webp",
       "rating": 4.2,
       "reviews": 16,
       "category": "Foods"
@@ -106,7 +107,7 @@
     {
       "name": "Mocha Cupcakes",
       "price": "Rp22.000",
-      "image": "./../assets/Images/Foods/Mocha Cupcakes.jpg",
+      "image": "/Images/Foods/Mocha Cupcakes.jpg",
       "rating": 4.2,
       "reviews": 16,
       "category": "Foods"
@@ -114,7 +115,7 @@
     {
       "name": "10 Pack Hotwheels Fast & Furious",
       "price": "Rp310.000",
-      "image": "./../assets/Images/Toys/10 Pack Hotwheels FF.jpg",
+      "image": "/Images/Toys/10 Pack Hotwheels FF.jpg",
       "rating": 0,
       "reviews": 0,
       "category": "Toys"
@@ -122,7 +123,7 @@
     {
       "name": "Nike Tiempo Legend 10",
       "price": "Rp3.569.000",
-      "image": "./../assets/Images/Others/Nike shoes 2.png",
+      "image": "/Images/Others/Nike shoes 2.png",
       "rating": 0,
       "reviews": 0,
       "category": "Others"
@@ -130,7 +131,7 @@
     {
       "name": "Cookies",
       "price": "Rp16.000",
-      "image": "./../assets/Images/Foods/Cookies.jpg",
+      "image": "/Images/Foods/Cookies.jpg",
       "rating": 4.5,
       "reviews": 19,
       "category": "Foods"
@@ -138,7 +139,7 @@
     {
       "name": "Diorama Parkiran",
       "price": "Rp200.000",
-      "image": "./../assets/Images/Others/Diorama Parkiran.webp",
+      "image": "/Images/Others/Diorama Parkiran.webp",
       "rating": 4.2,
       "reviews": 16,
       "category": "Others"
@@ -146,7 +147,7 @@
     {
       "name": "Air Jordan 4 RM",
       "price": "Rp999.000",
-      "image": "./../assets/Images/Others/Nike shoes 3.png",
+      "image": "/Images/Others/Nike shoes 3.png",
       "rating": 0,
       "reviews": 0,
       "category": "Others"
